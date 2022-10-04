@@ -1,0 +1,7 @@
+base   oauthazure
+author Matias Hämäläinen
+email  matias.hamalainen@visiopaja.fi
+date   2022-10-04
+name   oAuth Azure Service
+desc   Azure Service for use with the oAuth Plugin
+url    http://www.dokuwiki.org/plugin:oauthazure
