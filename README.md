@@ -1,4 +1,4 @@
-#oauthazure Plugin for DokuWiki
+oauthazure Plugin for DokuWiki
 ===
 
 Azure Service for use with the oAuth Plugin 2021-12-19 or above
